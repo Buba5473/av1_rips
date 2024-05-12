@@ -1,0 +1,364 @@
+﻿magnet:?xt=urn:btih:c792c760c049b16e077bc073d23b8097ccc938f6&tr=http%3A%2F%2F%5B2a01%3Ad0%3Aa580%3A1%3A%3A2%5D%3A2710%2F003c0fb1e8ee2fa7a4e537c17683723d%2Fannounce&tr=http%3A%2F%2Fbt%2Eokmp3%2Eru%3A2710%2Fannounce&tr=http%3A%2F%2Fbt02%2Ennm%2Dclub%2Ecc%3A2710%2F003c0fb1e8ee2fa7a4e537c17683723d%2Fannounce&tr=http%3A%2F%2Fbt02%2Ennm%2Dclub%2Einfo%3A2710%2F003c0fb1e8ee2fa7a4e537c17683723d%2Fannounce&tr=http%3A%2F%2Ffxtt%2Eru%3A80%2Fannounce&tr=http%3A%2F%2Fopen%2Eacgnxtracker%2Ecom%3A80%2Fannounce&tr=http%3A%2F%2Fretracker%2Elocal%2Fannounce%2Ephp%3Fsize%3D24046901326%26comment%3Dhttp%253A%252F%252Fnnmclub%2Eto%252Fforum%252Fviewtopic%2Ephp%253Fp%253D12259144%26name%3D%25C1%25E5%25E7%25F3%25EC%25ED%25FB%25E9%2B%25CC%25E0%25EA%25F1%2B%252F%2BMad%2BMax%2B%25281979%2529%2BUHD%2BBDRip%2B%255BH%2E265%252F2160p%255D%2B%255B4K%252C%2BHDR%252C%2B10%2Dbit%255D&tr=http%3A%2F%2Ft%2Eoverflow%2Ebiz%3A6969%2Fannounce&tr=http%3A%2F%2Ftr%2Ecili001%2Ecom%3A8070%2Fannounce&tr=http%3A%2F%2Ftracker%2Edler%2Eorg%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker%2Eencrypted%2Ddata%2Exyz%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker%2Efiles%2Efm%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker%2Egbitt%2Einfo%3A80%2Fannounce&tr=http%3A%2F%2Ftracker%2Elelux%2Efi%3A80%2Fannounce&tr=http%3A%2F%2Ftracker%2Emywaifu%2Ebest%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker%2Eopenbittorrent%2Ecom%3A80%2Fannounce&tr=http%3A%2F%2Ftracker%2Eopentrackr%2Eorg%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker%2Ezerobytes%2Exyz%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker1%2Ebt%2Emoack%2Eco%2Ekr%3A80%2Fannounce&tr=http%3A%2F%2Ftracker2%2Edler%2Eorg%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker%2Ei2p%2Erocks%3A443%2Fannounce&tr=https%3A%2F%2Ftr%2Eburnabyhighstar%2Ecom%3A443%2Fannounce&tr=https%3A%2F%2Ftracker%2Ecyber%2Dhub%2Enet%3A443%2Fannounce&tr=https%3A%2F%2Ftracker%2Eforeverpirates%2Eco%3A443%2Fannounce&tr=https%3A%2F%2Ftracker%2Egbitt%2Einfo%3A443%2Fannounce&tr=https%3A%2F%2Ftracker%2Ejiesen%2Elife%3A8443%2Fannounce&tr=https%3A%2F%2Ftracker%2Ekuroy%2Eme%3A443%2Fannounce&tr=https%3A%2F%2Ftracker%2Elilithraws%2Eorg%3A443%2Fannounce&tr=https%3A%2F%2Ftracker%2Enanoha%2Eorg%3A443%2Fannounce&tr=https%3A%2F%2Ftracker%2Etamersunion%2Eorg%3A443%2Fannounce&tr=https%3A%2F%2Ftracker1%2E520%2Ejp%3A443%2Fannounce&tr=https%3A%2F%2Ftracker2%2Ectix%2Ecn%3A443%2Fannounce&tr=udp%3A%2F%2F6ahddutb1ucc3cp%2Eru%3A6969%2Fannounce&tr=udp%3A%2F%2F9%2Erarbg%2Ecom%3A2810%2Fannounce&tr=udp%3A%2F%2F960303%2Exyz%3A6969%2Fannounce&tr=udp%3A%2F%2Faarsen%2Eme%3A6969%2Fannounce&tr=udp%3A%2F%2Fadmin%2E52ywp%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Fadmin%2Evideoenpoche%2Einfo%3A6969%2Fannounce&tr=udp%3A%2F%2Fben%2Ekerbertools%2Exyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fblack%2Dbird%2Eynh%2Efr%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt%2Ektrackers%2Ecom%3A6666%2Fannounce&tr=udp%3A%2F%2Fbt1%2Earchive%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Fbt2%2Earchive%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Fbubu%2Emapfactor%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Fbuddyfly%2Etop%3A6969%2Fannounce&tr=udp%3A%2F%2Fcamera%2Elei001%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Fcarr%2Ecodes%3A6969%2Fannounce&tr=udp%3A%2F%2Fchouchou%2Etop%3A8080%2Fannounce&tr=udp%3A%2F%2Fconcen%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Fcutscloud%2Educkdns%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Fdownload%2Enerocloud%2Eme%3A6969%2Fannounce&tr=udp%3A%2F%2Fepider%2Eme%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus%2Edesync%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Ff1sh%2Ede%3A6969%2Fannounce&tr=udp%3A%2F%2Ffe%2Edealclub%2Ede%3A6969%2Fannounce&tr=udp%3A%2F%2Ffh2%2Ecmp%2Dgaming%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Fhtz3%2Enoho%2Est%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4%2Etracker%2Eharry%2Elu%3A80%2Fannounce&tr=udp%3A%2F%2Fkeke%2Ere%3A6969%2Fannounce&tr=udp%3A%2F%2Fkokodayo%2Esite%3A6969%2Fannounce&tr=udp%3A%2F%2Flaze%2Ecc%3A6969%2Fannounce&tr=udp%3A%2F%2Fleefafa%2Etk%3A6969%2Fannounce&tr=udp%3A%2F%2Fmail%2Eartixlinux%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Fmail%2Ezasaonsk%2Ega%3A6969%2Fannounce&tr=udp%3A%2F%2Fmirror%2Eaptus%2Eco%2Etz%3A6969%2Fannounce&tr=udp%3A%2F%2Fmoonburrow%2Eclub%3A6969%2Fannounce&tr=udp%3A%2F%2Fmovies%2Ezsw%2Eca%3A6969%2Fannounce&tr=udp%3A%2F%2Fnew%2Dline%2Enet%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen%2Edemonii%2Ecom%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen%2Edstud%2Eio%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen%2Efree%2Dtracker%2Ega%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen%2Estealth%2Esi%3A80%2Fannounce&tr=udp%3A%2F%2Fopen%2Etracker%2Eink%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker%2Ei2p%2Erocks%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p%2Earenabg%2Ecom%3A1337%2Fannounce&tr=udp%3A%2F%2Fpsyco%2Efr%3A6969%2Fannounce&tr=udp%3A%2F%2Fpublic%2Epublictracker%2Exyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fpublic%2Etracker%2Evraphim%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Fqtstm32fan%2Eru%3A6969%2Fannounce&tr=udp%3A%2F%2Frep%2Dart%2Eynh%2Efr%3A6969%2Fannounce&tr=udp%3A%2F%2Frun%2D2%2Epublictracker%2Exyz%3A6969%2Fannounce&tr=udp%3A%2F%2Frun%2Epublictracker%2Exyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fsanincode%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Fslicie%2Eicon256%2Ecom%3A8000%2Fannounce&tr=udp%3A%2F%2Fsmtp%2Drelay%2Eodysseylabel%2Ecom%2Eau%3A6969%2Fannounce&tr=udp%3A%2F%2Ftamas3%2Eynh%2Efr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftheodoric%2Efr%3A6969%2Fannounce&tr=udp%3A%2F%2Fthouvenin%2Ecloud%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrentclub%2Espace%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrents%2Eartixlinux%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Ftr%2Ebangumi%2Emoe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftr%2Ecili001%2Ecom%3A8070%2Fannounce&tr=udp%3A%2F%2Ftracker%2Dudp%2Egbitt%2Einfo%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker%2E4%2Ebabico%2Ename%2Etr%3A3131%2Fannounce&tr=udp%3A%2F%2Ftracker%2Ealtrosky%2Enl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Earmy%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eartixlinux%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eauctor%2Etv%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Ebitsearch%2Eto%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eddunlimited%2Enet%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Edler%2Eorg%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eencrypted%2Ddata%2Exyz%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker%2Efilemail%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Ejonaslsa%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Ejoybomb%2Etw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eleech%2Eie%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker%2Elelux%2Efi%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Emoeking%2Eme%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Emonitorit4%2Eme%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eopenbtba%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eopentrackr%2Eorg%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker%2Epomf%2Ese%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eskyts%2Enet%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Esrv00%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Eswateam%2Eorg%2Euk%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker%2Etcp%2Eexchange%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Etheoks%2Enet%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Etiny%2Dvps%2Ecom%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker%2Etorrent%2Eeu%2Eorg%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker%2Ezerobytes%2Exyz%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker1%2Ebt%2Emoack%2Eco%2Ekr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1%2Emyporn%2Eclub%3A9337%2Fannounce&tr=udp%3A%2F%2Ftracker2%2Edler%2Eorg%3A80%2Fannounce&tr=udp%3A%2F%2Fuploads%2Egamecoast%2Enet%3A6969%2Fannounce&tr=udp%3A%2F%2Fvibe%2Esleepyinternetfun%2Exyz%3A1738%2Fannounce&tr=udp%3A%2F%2Fyahor%2Eftp%2Esh%3A6969%2Fannounce&tr=udp%3A%2F%2Fzecircle%2Exyz%3A6969%2Fannounce
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Общее
+Уникальный идентификатор                 : 287549178281316037395038698128997997093 (0xD853F5113162C2EEA54834FAA0D1DA25)
+Полное имя                               : F:\Video\Безумный Макс (Mad Max).mkv
+Формат                                   : Matroska
+Версия формата                           : Version 4
+Размер файла                             : 22,4 Гбайт
+Продолжительность                        : 1 ч. 33 м.
+Общий поток                              : 34,4 Мбит/сек
+Частота кадров                           : 23,976 кадра/сек
+Название фильма                          : Бeзyмный Makc / Бeшeный Makc / Mad Max
+Описание                                 : В недалёком будущем, после крупной катастрофы, поразившей нашу урбанистическую цивилизацию, вся жизнь сосредоточилась вдоль бесчисленных магистралей. Дорога стала способом существования. И дала многим возможность проявлять свои самые жестокие инстинкты. Банда байкеров на мощных мотоциклах, желая рассчитаться за своего убитого товарища, преследует молодого полицейского Макса. Жертвой их мести становится лучший друг Макса, и та же участь грозит самому Максу и его семье...
+Дата выпуска                             : 1979
+Дата кодирования                         : 2023-05-24 07:11:22 UTC
+Программа кодирования                    : mkvmerge v75.0.0 ('Goliath') 64-bit
+Библиотека кодирования                   : libebml v1.4.4 + libmatroska v1.7.1
+Обложка                                  : Yes
+Attachments                              : cover.jpg
+Released by                              : Buba5473 for NNM-Club
+
+Видео
+Идентификатор                            : 1
+Формат                                   : HEVC
+Формат/Информация                        : High Efficiency Video Coding
+Профиль формата                          : Main 10@L5.1@High
+HDR format                               : SMPTE ST 2086, HDR10 compatible
+Идентификатор кодека                     : V_MPEGH/ISO/HEVC
+Продолжительность                        : 1 ч. 33 м.
+Ширина                                   : 3 840 пикселей
+Высота                                   : 1 632 пикселя
+Соотношение сторон                       : 2,35:1
+Режим частоты кадров                     : Постоянный
+Частота кадров                           : 23,976 (24000/1001) кадра/сек
+Цветовое пространство                    : YUV
+Субдискретизация насыщенности            : 4:2:0 (Type 2)
+Битовая глубина                          : 10 бит
+Заголовок                                : Mad.Max.1979.BluRay.2160p.DTS-HD.MA.5.1.HDR.x265.10bit-10008@BBQDDQ.COM
+Библиотека кодирования                   : x265 3.5+2-g2b25c9ba0+87:[Windows][clang 12.0.1][64 bit] Kasumi 10bit
+Настройки программы                      : rc=crf / crf=16.0000 / qcomp=0.60 / qpstep=4 / stats-write=0 / stats-read=0 / no-lossless / no-cu-lossless / aq-mode=1 / aq-strength=1.00 / cbqpoffs=0 / crqpoffs=0 / ipratio=1.40 / pbratio=1.30 / psy-rd=3.00 / psy-rdoq=4.80 / deblock=0:0 / ref=6 / limit-refs=1 / no-limit-modes / bframes=14 / b-adapt=2 / bframe-bias=0 / b-pyramid / b-intra / weightp / weightb / min-keyint=23 / max-keyint=250 / rc-lookahead=75 / gop-lookahead=0 / scenecut=40 / hist-scenecut=0 / radl=0 / max-cu-size=64 / min-cu-size=8 / me=3 / subme=7 / merange=64 / rdoq-level=2 / rd=4 / rdpenalty=2 / dynamic-rd=0.00 / no-rd-refine / ----- / cutree / no-sao / no-rect / no-amp / no-open-gop / wpp / no-pmode / no-pme / no-psnr / no-ssim / nr-intra=0 / nr-inter=0 / no-constrained-intra / no-strong-intra-smoothing / max-tu-size=32 / tu-inter-depth=1 / tu-intra-depth=1 / limit-tu=0 / qg-size=32 / qpmax=69 / qpmin=0 / ----- / cpuid=1111039 / frame-threads=5 / numa-pools=64,64,0,0 / log-level=2 / input-csp=1 / input-res=3840x1632 / interlace=0 / level-idc=0 / high-tier=1 / uhd-bd=0 / no-allow-non-conformance / repeat-headers / no-aud / no-hrd / info / hash=0 / no-temporal-layers / lookahead-slices=8 / no-splice / no-intra-refresh / no-ssim-rd / signhide / no-tskip / max-merge=3 / temporal-mvp / no-frame-dup / no-hme / no-analyze-src-pics / no-sao-non-deblock / selective-sao=0 / early-skip / rskip / no-fast-intra / no-tskip-fast / no-splitrd-skip / zone-count=0 / no-strict-cbr / no-rc-grain / no-const-vbv / sar=0 / overscan=0 / videoformat=5 / range=0 / colorprim=9 / transfer=16 / colormatrix=9 / chromaloc=1 / chromaloc-top=2 / chromaloc-bottom=2 / display-window=0 / master-display=G(13250,34500)B(7500,3000)R(34000,16000)WP(15635,16450)L(10000000,1) / cll=0,0 / min-luma=0 / max-luma=1023 / log2-max-poc-lsb=8 / vui-timing-info / vui-hrd-info / slices=1 / no-opt-qp-pps / no-opt-ref-list-length-pps / no-multi-pass-opt-rps / scenecut-bias=0.05 / hist-threshold=0.03 / no-opt-cu-delta-qp / aq-motion / hdr10 / hdr10-opt / no-dhdr10-opt / no-idr-recovery-sei / analysis-reuse-level=0 / analysis-save-reuse-level=0 / analysis-load-reuse-level=0 / scale-factor=0 / refine-intra=0 / refine-inter=0 / refine-mv=1 / refine-ctu-distortion=0 / no-limit-sao / ctu-info=0 / no-lowpass-dct / refine-analysis-type=0 / copy-pic=1 / max-ausize-factor=1.0 / no-dynamic-refine / no-single-sei / no-hevc-aq / no-svt / no-field / qp-adaptation-range=1.00 / scenecut-aware-qp=0conformance-window-offsets / right=0 / bottom=0 / decoder-max-rate=0 / no-vbv-live-multi-pass
+Язык                                     : zxx
+Default                                  : Нет
+Forced                                   : Нет
+Цветовой диапазон                        : Limited
+Основные цвета                           : BT.2020
+Характеристики трансфера                 : PQ
+Коэффициенты матрицы                     : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0001 cd/m2, max: 1000 cd/m2
+
+Аудио #1
+Идентификатор                            : 2
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 448 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C LFE Ls Rs
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 412 мс.
+Размер потока                            : 299 Мбайт (1%)
+Заголовок                                : Пeрeвog: Пpoфeccuoнaльный (noлнoe gy6лupoвaнue)
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Да
+Forced                                   : Нет
+Dialog Normalization                     : -27 dB
+compr                                    : -0.28 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -3 dB
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Аудио #2
+Идентификатор                            : 3
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 448 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C LFE Ls Rs
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 412 мс.
+Размер потока                            : 299 Мбайт (1%)
+Заголовок                                : Пeрeвog: Пpoфeccuoнaльный (мнoгoгoлocый зakagpoвый) Kuнoмaнuя
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dynrng                                   : -0.86 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -3 dB
+mixlevel                                 : 285 dB
+roomtyp                                  : Small
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Аудио #3
+Идентификатор                            : 4
+Формат                                   : DTS
+Формат/Информация                        : Digital Theater Systems
+Идентификатор кодека                     : A_DTS
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 754 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : C L R Ls Rs LFE
+Частота                                  : 48,0 КГц
+Частота кадров                           : 93,750 кадра/сек (512 SPF)
+Битовая глубина                          : 24 бит
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 412 мс.
+Размер потока                            : 503 Мбайт (2%)
+Заголовок                                : Пeрeвog: Пpoфeccuoнaльный (мнoгoгoлocый зakagpoвый)
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Аудио #4
+Идентификатор                            : 5
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 192 Кбит/сек
+Каналы                                   : 2 канала
+Channel layout                           : L R
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 412 мс.
+Размер потока                            : 128 Мбайт (1%)
+Заголовок                                : Пeрeвog: Пpoфeccuoнaльный (мнoгoгoлocый зakagpoвый) HTB+
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Аудио #5
+Идентификатор                            : 6
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 192 Кбит/сек
+Каналы                                   : 2 канала
+Channel layout                           : L R
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 412 мс.
+Размер потока                            : 128 Мбайт (1%)
+Заголовок                                : Пeрeвog: Пpoфeccuoнaльный (мнoгoгoлocый зakagpoвый) Bapyc Bugeo
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Аудио #6
+Идентификатор                            : 7
+Формат                                   : DTS
+Формат/Информация                        : Digital Theater Systems
+Идентификатор кодека                     : A_DTS
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 1 510 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : C L R Ls Rs LFE
+Частота                                  : 48,0 КГц
+Частота кадров                           : 93,750 кадра/сек (512 SPF)
+Битовая глубина                          : 24 бит
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 412 мс.
+Размер потока                            : 1 007 Мбайт (4%)
+Заголовок                                : Пeрeвog: Aвmopckий (ogнoгoлocый, зakagpoвый) Aлekceй Muxaлёв
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Аудио #7
+Идентификатор                            : 8
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 448 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C LFE Ls Rs
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 412 мс.
+Размер потока                            : 299 Мбайт (1%)
+Заголовок                                : Пeрeвog: Aвmopckий (ogнoгoлocый, зakagpoвый) Лeoнug Boлogapckuй
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -27 dB
+compr                                    : 0.53 dB
+dynrng                                   : 0.27 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -3 dB
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Аудио #8
+Идентификатор                            : 9
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 192 Кбит/сек
+Каналы                                   : 2 канала
+Channel layout                           : L R
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 419 мс.
+Размер потока                            : 128 Мбайт (1%)
+Заголовок                                : Пeрeвog: Aвmopckий (ogнoгoлocый, зakagpoвый) Юpuй Toв6uн
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Аудио #9
+Идентификатор                            : 10
+Формат                                   : AAC LC SBR
+Формат/Информация                        : Advanced Audio Codec Low Complexity with Spectral Band Replication
+Коммерческое название                    : HE-AAC
+Настройки формата                        : Explicit
+Идентификатор кодека                     : A_AAC-2
+Продолжительность                        : 1 ч. 33 м.
+Каналы                                   : 6 каналов
+Channel layout                           : C L R Ls Rs LFE
+Частота                                  : 48,0 КГц
+Частота кадров                           : 23,438 кадра/сек (2048 SPF)
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 441 мс.
+Заголовок                                : Пeрeвog: Aвmopckий (ogнoгoлocый, зakagpoвый) Юpuй Cep6uн
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Аудио #10
+Идентификатор                            : 11
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 192 Кбит/сек
+Каналы                                   : 2 канала
+Channel layout                           : L R
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Задержка видео                           : 4 с. 419 мс.
+Размер потока                            : 128 Мбайт (1%)
+Заголовок                                : Пeрeвog: Любumeльckuй ogнoгoлocый, Ужacmuk
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -27 dB
+compr                                    : -0.28 dB
+dynrng                                   : -4.30 dB
+dsurmod                                  : Not Dolby Surround encoded
+mixlevel                                 : 285 dB
+roomtyp                                  : Small
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Аудио #11
+Идентификатор                            : 12
+Формат                                   : DTS
+Формат/Информация                        : Digital Theater Systems
+Идентификатор кодека                     : A_DTS
+Продолжительность                        : 1 ч. 33 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 1 509 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : C L R Ls Rs LFE
+Частота                                  : 48,0 КГц
+Частота кадров                           : 93,750 кадра/сек (512 SPF)
+Битовая глубина                          : 24 бит
+Метод сжатия                             : С потерями
+Размер потока                            : 1 007 Мбайт (4%)
+Язык                                     : English (US)
+Default                                  : Нет
+Forced                                   : Нет
+
+Текст #1
+Идентификатор                            : 13
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Язык                                     : Russian (RU)
+Default                                  : Да
+Forced                                   : Нет
+
+Текст #2
+Идентификатор                            : 14
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Язык                                     : English (US)
+Default                                  : Нет
+Forced                                   : Нет
+
+Меню
+00:00:00.000                             : en:第 01 章
+00:07:00.336                             : en:第 02 章
+00:15:39.480                             : en:第 03 章
+00:23:36.832                             : en:第 04 章
+00:31:49.282                             : en:第 05 章
+00:39:00.212                             : en:第 06 章
+00:47:02.402                             : en:第 07 章
+00:55:43.548                             : en:第 08 章
+01:02:12.854                             : en:第 09 章
+01:15:32.611                             : en:第 10 章
+01:30:48.443                             : en:第 11 章
+
