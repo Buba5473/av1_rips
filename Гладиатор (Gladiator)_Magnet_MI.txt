@@ -1,0 +1,453 @@
+﻿magnet:?xt=urn:btih:vv626fpinvvdxasnknwrgs6ke7s7f4pd&dn=%D0%93%D0%BB%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80%20%28Gladiator%29%20EC.mkv&xl=18393954024&fc=1
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Общее
+Уникальный идентификатор                 : 157260632938127569738312474668066421354 (0x764F4BD4154D34157B61F71566503A6A)
+Полное имя                               : F:\Video\AV1\Гладиатор (Gladiator) EC.mkv
+Формат                                   : Matroska
+Версия формата                           : Version 4
+Размер файла                             : 17,1 Гбайт
+Продолжительность                        : 2 ч. 50 м.
+Общий поток                              : 14,3 Мбит/сек
+Частота кадров                           : 23,976 кадра/сек
+Название фильма                          : Глaguamop / Gladiator [Extended Cut]
+Описание                                 : Бывший римский полководец намеревается отомстить коррумпированному императору, который убил его семью и отправил его самого в рабство.
+Дата выпуска                             : 2000
+Дата кодирования                         : 2025-01-04 06:51:16 UTC
+Программа кодирования                    : mkvmerge v87.0 ('Black as the Sky') 64-bit
+Библиотека кодирования                   : libebml v1.4.5 + libmatroska v1.7.1
+Обложка                                  : Yes
+Attachments                              : cover.jpg / poster.jpg
+PUBLISHER                                : buba5473 для NNM-Club
+
+Видео
+Идентификатор                            : 1
+Формат                                   : AV1
+Формат/Информация                        : AOMedia Video 1
+Профиль формата                          : Main@L5.0
+HDR format                               : Dolby Vision, Version 1.0, Profile 10.1, dav1.10.08, BL+RPU, no metadata compression, HDR10 compatible / SMPTE ST 2086, Version HDR10, HDR10 compatible / SMPTE ST 2086, Version HDR10, HDR10 compatible
+Идентификатор кодека                     : V_AV1
+Продолжительность                        : 2 ч. 50 м.
+Битрейт                                  : 9 785 Кбит/сек
+Ширина                                   : 3 840 пикселей
+Высота                                   : 1 600 пикселей
+Высота оригинала                         : 2 160 пикселей
+Соотношение сторон                       : 2,40:1
+Режим частоты кадров                     : Постоянный
+Частота кадров                           : 23,976 (24000/1001) кадра/сек
+Цветовое пространство                    : YUV
+Субдискретизация насыщенности            : 4:2:0 (Type 2)
+Битовая глубина                          : 10 бит
+Бит/(Пиксели*Кадры)                      : 0.066
+Размер потока                            : 11,7 Гбайт (68%)
+Заголовок                                : Gladiator (2000) Extended Cut UHD [BR] [2160p] DV HDR10 AV1-10bit DTS-X.7.1
+Язык                                     : zxx
+Default                                  : Нет
+Forced                                   : Нет
+Цветовой диапазон                        : Limited
+Основные цвета                           : BT.2020
+Характеристики трансфера                 : PQ
+Коэффициенты матрицы                     : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0050 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 1000
+MaxCLL_Original                          : 1000 cd/m2
+Maximum Frame-Average Light Level        : 497
+MaxFALL_Original                         : 497 cd/m2
+
+Аудио #1
+Идентификатор                            : 2
+Формат                                   : Opus
+Идентификатор кодека                     : A_OPUS
+Продолжительность                        : 2 ч. 50 м.
+Битрейт                                  : 456 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C Lb Rb LFE
+Частота                                  : 48,0 КГц
+Частота кадров                           : 50,000 кадров/сек (960 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 557 Мбайт (3%)
+Заголовок                                : Пepeвog: Пpoфeccuoнaльный (gy6лupoвaнный) mвopчeckoe cogpyжecmвo "Иcm-Becm", 2000 (c6opka Kinоton)
+Язык                                     : Russian (RU)
+Default                                  : Да
+Forced                                   : Нет
+
+Аудио #2
+Идентификатор                            : 3
+Формат                                   : Opus
+Идентификатор кодека                     : A_OPUS
+Продолжительность                        : 2 ч. 50 м.
+Битрейт                                  : 449 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C Lb Rb LFE
+Частота                                  : 48,0 КГц
+Частота кадров                           : 50,000 кадров/сек (960 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 549 Мбайт (3%)
+Заголовок                                : Пepeвog Пpoфeccuoнaльный мнoгoгoлocый, m/k "Инmep" co вcmaвkaмu A. Kupeeвa
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Аудио #3
+Идентификатор                            : 4
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 2 ч. 50 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 192 Кбит/сек
+Каналы                                   : 2 канала
+Channel layout                           : L R
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 235 Мбайт (1%)
+Заголовок                                : Пepeвog Пpoфeccuoнaльный мнoгoгoлocый, m/k "Poccuя" (2003) + вcmaвku DUB
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Аудио #4
+Идентификатор                            : 5
+Формат                                   : Opus
+Идентификатор кодека                     : A_OPUS
+Продолжительность                        : 2 ч. 50 м.
+Битрейт                                  : 455 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C Lb Rb LFE
+Частота                                  : 48,0 КГц
+Частота кадров                           : 50,000 кадров/сек (960 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 557 Мбайт (3%)
+Заголовок                                : Пepeвog: Aвmopckuй, A. Гaвpuлoв co вcmaвkaмu A. Kupeeвa
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Аудио #5
+Идентификатор                            : 6
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 2 ч. 50 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 448 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C LFE Ls Rs
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 548 Мбайт (3%)
+Заголовок                                : Пepeвog: Aвmopckuй, C. Buзгyнoв
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -31 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -inf dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Аудио #6
+Идентификатор                            : 7
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 2 ч. 50 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 448 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C LFE Ls Rs
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 548 Мбайт (3%)
+Заголовок                                : Пepeвog: Aвmopckuй, Ю. Жuвoв co вcmaвkaмu A. Kupeeвa
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -27 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -3 dB
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Аудио #7
+Идентификатор                            : 8
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 2 ч. 50 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 640 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C LFE Ls Rs
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 783 Мбайт (4%)
+Заголовок                                : Пepeвog: Ogнoгoлocый зakagpoвый, A. Kupeeв [no nepeвogy A. Hukoльckoгo]
+Язык                                     : Russian (RU)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -31 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -3 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Аудио #8
+Идентификатор                            : 9
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 2 ч. 50 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 640 Кбит/сек
+Каналы                                   : 6 каналов
+Channel layout                           : L R C LFE Ls Rs
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 783 Мбайт (4%)
+Заголовок                                : 5.1
+Язык                                     : English (US)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -31 dB
+cmixlev                                  : -4.5 dB
+surmixlev                                : -6 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Аудио #9
+Идентификатор                            : 10
+Формат                                   : Opus
+Идентификатор кодека                     : A_OPUS
+Продолжительность                        : 2 ч. 50 м.
+Битрейт                                  : 633 Кбит/сек
+Каналы                                   : 8 каналов
+Channel layout                           : L R C Ls Rs Lb Rb LFE
+Частота                                  : 48,0 КГц
+Частота кадров                           : 50,000 кадров/сек (960 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 774 Мбайт (4%)
+Заголовок                                : 7.1
+Язык                                     : English (US)
+Default                                  : Нет
+Forced                                   : Нет
+
+Аудио #10
+Идентификатор                            : 11
+Формат                                   : AC-3
+Формат/Информация                        : Audio Coding 3
+Коммерческое название                    : Dolby Digital
+Настройки формата                        : Dolby Surround
+Идентификатор кодека                     : A_AC3
+Продолжительность                        : 2 ч. 50 м.
+Вид битрейта                             : Постоянный
+Битрейт                                  : 192 Кбит/сек
+Каналы                                   : 2 канала
+Channel layout                           : L R
+Частота                                  : 48,0 КГц
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)
+Метод сжатия                             : С потерями
+Размер потока                            : 235 Мбайт (1%)
+Заголовок                                : Commentary by Director Ridley Scott/Actor Russell Crowe
+Язык                                     : English (US)
+Service kind                             : Complete Main
+Default                                  : Нет
+Forced                                   : Нет
+Dialog Normalization                     : -27 dB
+dsurmod                                  : Dolby Surround encoded
+ltrtcmixlev                              : -3.0 dB
+ltrtsurmixlev                            : -3.0 dB
+lorocmixlev                              : -3.0 dB
+lorosurmixlev                            : -3.0 dB
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Текст #1
+Идентификатор                            : 12
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 45 м.
+Битрейт                                  : 0 бит/сек
+Частота кадров                           : 0,002 кадр/сек
+Count of elements                        : 17
+Размер потока                            : 925 байт (0%)
+Заголовок                                : Фopcupoвaнныe
+Язык                                     : Russian (RU)
+Default                                  : Да
+Forced                                   : Нет
+
+Текст #2
+Идентификатор                            : 13
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 45 м.
+Битрейт                                  : 57 бит/сек
+Частота кадров                           : 0,139 кадр/сек
+Count of elements                        : 1377
+Размер потока                            : 69,3 Кбайт (0%)
+Заголовок                                : Blu-ray CEE
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Текст #3
+Идентификатор                            : 14
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 43 м.
+Битрейт                                  : 59 бит/сек
+Частота кадров                           : 0,135 кадр/сек
+Count of elements                        : 1319
+Размер потока                            : 71,6 Кбайт (0%)
+Заголовок                                : Media Studio
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Текст #4
+Идентификатор                            : 15
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 43 м.
+Битрейт                                  : 68 бит/сек
+Частота кадров                           : 0,163 кадр/сек
+Count of elements                        : 1596
+Размер потока                            : 82,3 Кбайт (0%)
+Заголовок                                : SDH
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Текст #5
+Идентификатор                            : 16
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 49 м.
+Битрейт                                  : 157 бит/сек
+Частота кадров                           : 0,279 кадр/сек
+Count of elements                        : 2844
+Размер потока                            : 196 Кбайт (0%)
+Заголовок                                : Koммeнmapuu Pugлu Ckomma u Pacceлa Kpoy
+Язык                                     : Russian (RU)
+Default                                  : Нет
+Forced                                   : Нет
+
+Текст #6
+Идентификатор                            : 17
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 40 м.
+Битрейт                                  : 34 бит/сек
+Частота кадров                           : 0,142 кадр/сек
+Count of elements                        : 1364
+Размер потока                            : 40,9 Кбайт (0%)
+Язык                                     : English (US)
+Default                                  : Нет
+Forced                                   : Нет
+
+Текст #7
+Идентификатор                            : 18
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 41 м.
+Битрейт                                  : 36 бит/сек
+Частота кадров                           : 0,150 кадр/сек
+Count of elements                        : 1453
+Размер потока                            : 43,3 Кбайт (0%)
+Заголовок                                : SDH
+Язык                                     : English (US)
+Default                                  : Нет
+Forced                                   : Нет
+
+Текст #8
+Идентификатор                            : 19
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 41 м.
+Битрейт                                  : 41 бит/сек
+Частота кадров                           : 0,149 кадр/сек
+Count of elements                        : 1444
+Размер потока                            : 49,6 Кбайт (0%)
+Заголовок                                : SDH-Colored
+Язык                                     : English (US)
+Default                                  : Нет
+Forced                                   : Нет
+
+Текст #9
+Идентификатор                            : 20
+Формат                                   : UTF-8
+Идентификатор кодека                     : S_TEXT/UTF8
+Идентификатор кодека/Информация          : UTF-8 Plain Text
+Продолжительность                        : 2 ч. 46 м.
+Битрейт                                  : 123 бит/сек
+Частота кадров                           : 0,284 кадр/сек
+Count of elements                        : 2842
+Размер потока                            : 151 Кбайт (0%)
+Заголовок                                : Commentary by Director Ridley Scott/Actor Russell Crowe
+Язык                                     : English (US)
+Default                                  : Нет
+Forced                                   : Нет
+
+Меню
+00:00:00.000                             : Far From Home (Main Title)
+00:07:13.308                             : Hell Unleashed
+00:12:50.103                             : You Have Missed the War
+00:18:44.915                             : A Pleasant Fiction
+00:23:29.325                             : One More Duty
+00:32:58.518                             : You Will Not Be Emperor
+00:37:34.878                             : Hail Caesar
+00:40:50.740                             : A Soldier's Death
+00:47:32.725                             : Mark of the Legion
+00:51:35.843                             : Gladiators, I Salute You
+00:55:44.383                             : Battle in Chains
+01:02:21.363                             : The Greatness of Rome
+01:09:57.068                             : Win the Crowd
+01:19:08.369                             : I Shall Cheer for You
+01:29:21.606                             : The Battle of Carthage
+01:37:11.868                             : My Name Is Gladiator
+01:41:35.756                             : Terribly Vexed
+01:51:58.712                             : A Man for the People
+01:56:36.156                             : Maximus the Merciful
+02:00:43.361                             : You Simply Won't Die
+02:04:42.225                             : The Last Wish of a Dying Man
+02:12:18.931                             : I'm an Entertainer
+02:13:32.505                             : Busy Little Bee
+02:24:15.355                             : Shadows and Dust
+02:28:48.711                             : Am I Not Merciful
+02:34:20.668                             : Death Smiles at Us All
+02:38:43.472                             : Home Again
+02:42:57.643                             : Now We Are Free
+
